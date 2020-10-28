@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+}
+
+/*img {*/
+/*  width: 100%;*/
+/*  height: auto;*/
+/*}*/
+
+.app {
+  background-color: #fafafa;
+  height: 100vh;
+}
+
+.app__header {
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+  background-color: #fff;
+  border-bottom: 1px solid lightgray;
+  padding: 20px;
+  object-fit: contain;
+  display: flex;
+  justify-content: space-between;
+}
+
+.instagram__logo{
+  max-width: 110px;
+  height: auto;
+}
+
+h3 {
+  text-align: center;
+  margin: 30px auto;
+}
