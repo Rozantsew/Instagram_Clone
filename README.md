@@ -1,3 +1,8 @@
+## Link to demo
+
+<a href="https://instagram-clone-bymike.web.app/">Click to see demo</a>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
